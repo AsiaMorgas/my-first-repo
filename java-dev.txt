@@ -23,3 +23,5 @@ Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos
  And yet another change
 
  New changes since last commit
+
+ User has been loggen out
