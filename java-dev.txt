@@ -32,3 +32,5 @@ Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos
  This one is going to be ignored
 
  Tutaj tez modyfikuje tresc
+
+ Check if jenkins triggers
